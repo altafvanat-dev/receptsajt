@@ -1,0 +1,61 @@
+{
+  "slug": "asiatisk-gryta-linser",
+  "title": "Asiatisk gryta med gröna linser och kokosmjölk",
+  "lang": "sv",
+  "servings": 4,
+  "prepMinutes": 10,
+  "cookMinutes": 20,
+  "description": "Len och smakrik asiatisk gryta med gröna linser, kokosmjölk, röd currypasta och ingefära. Lagas i Thermomix på 30 minuter.",
+  "ingredients": [
+    "1 gul lök (ca 100 g)",
+    "3–4 vitlöksklyftor (ca 15 g)",
+    "15 g färsk ingefära, riven",
+    "10 g olja",
+    "25 g röd currypasta",
+    "1 röd paprika, strimlad (ca 150 g)",
+    "100 g kokosmjölk",
+    "200 g krossade tomater",
+    "17 g japansk soja",
+    "125 g vatten eller grönsaksbuljong",
+    "800 g gröna linser (burk), avrunna och sköljda",
+    "salt och peppar",
+    "5 g sesamolja",
+    "till servering: färsk koriander, lime, ris eller nudlar"
+  ],
+  "steps": [
+    { "text": "Hacka lök, vitlök och ingefära.", "setting": { "sec": 5, "speed": 7 } },
+    { "text": "Tillsätt olja och currypasta.", "setting": { "min": 3, "temp": 100, "speed": 1 } },
+    { "text": "Tillsätt paprika.", "setting": { "min": 2, "temp": 100, "speed": 1, "reverse": true } },
+    { "text": "Tillsätt kokosmjölk, krossade tomater, soja och vatten/buljong.", "setting": { "min": 5, "temp": 100, "speed": 1, "reverse": true } },
+    { "text": "Tillsätt linserna, salt och peppar.", "setting": { "min": 10, "temp": 100, "speed": 1, "reverse": true } },
+    { "text": "Rör i sesamolja, smaka av. Toppa med koriander och lime.", "setting": null }
+  ],
+  "en": {
+    "title": "Asian Green Lentil Stew with Coconut Milk",
+    "description": "Creamy, flavourful Asian stew with green lentils, coconut milk, red curry paste and ginger. Cooked in the Thermomix in 30 minutes.",
+    "ingredients": [
+      "1 yellow onion (approx. 100 g)",
+      "3–4 garlic cloves (approx. 15 g)",
+      "15 g fresh ginger, grated",
+      "10 g oil",
+      "25 g red curry paste",
+      "1 red bell pepper, sliced (approx. 150 g)",
+      "100 g coconut milk",
+      "200 g crushed tomatoes",
+      "17 g Japanese soy sauce",
+      "125 g water or vegetable stock",
+      "800 g green lentils (canned), drained and rinsed",
+      "salt and pepper",
+      "5 g sesame oil",
+      "to serve: fresh coriander, lime, rice or noodles"
+    ],
+    "steps": [
+      { "text": "Chop onion, garlic and ginger.", "setting": { "sec": 5, "speed": 7 } },
+      { "text": "Add oil and curry paste.", "setting": { "min": 3, "temp": 100, "speed": 1 } },
+      { "text": "Add bell pepper.", "setting": { "min": 2, "temp": 100, "speed": 1, "reverse": true } },
+      { "text": "Add coconut milk, crushed tomatoes, soy sauce and water/stock.", "setting": { "min": 5, "temp": 100, "speed": 1, "reverse": true } },
+      { "text": "Add the lentils, salt and pepper.", "setting": { "min": 10, "temp": 100, "speed": 1, "reverse": true } },
+      { "text": "Stir in the sesame oil and season to taste. Top with coriander and lime.", "setting": null }
+    ]
+  }
+}
